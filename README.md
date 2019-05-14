@@ -2,7 +2,7 @@
 
 ## Experimentation board designed with KiCad
 
-- Top layer : Connections can bea easily made to the plane with a solder drop.
+- Top layer : Connections can be easily made to the plane with a solder drop.
 - Bottom layer : Larger pads with no plane
 - Thru all pads pitch 2.54 mm / 100 mils
 - Mounting holes connected to the plane or not
