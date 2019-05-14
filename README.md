@@ -8,7 +8,7 @@
 - Mounting holes connected to the plane or not
 - Can be easily split in 2 or 4 smaller boards
 
-!(loloboard.jpg "Loloboard")
+![Loloboard](loloboard.jpg)
 
 **CAUTION** : As asymetrical pads are used (the pads dimensions are different on each layer), KiCad (5.1.2) considers it as an error and fix it after opening in pcbnew. DO NOT SAVE when exit pcbnew. Work on a copy, and manually fix the pads with a text editor if needed.
 
